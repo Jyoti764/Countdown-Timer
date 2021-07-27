@@ -1,0 +1,90 @@
+html {
+    box-sizing: border-box;
+    font-size: 10px;
+    
+  }
+  body, html {
+    height: 100%;
+    margin: 0;
+  }
+
+  #title {
+      font-size: large;
+      font-weight: bold;
+      
+  }
+
+
+  
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+  
+  body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Inconsolata', monospace;
+    background-image: url('https://source.unsplash.com/collection/190727/1600x900');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+  }
+  
+  #title {
+    font-size: 45px;
+    font-weight: bold;
+    text-decoration: underline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgba(158, 45, 45, 1.00);
+    
+}
+  
+  .displayTimeLeft {
+    font-weight: 100;
+    font-size: 20rem;
+    margin: 0;
+    color: rgb(158, 45, 45);
+   
+  }
+  
+  .timer {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+  
+  .timerControls {
+    display: flex;
+  }
+  
+  .timerControls > * {
+    flex: 1;
+  }
+  
+  .timerControls form {
+    flex: 1;
+    display: flex;
+    
+  }
+  
+  .timerControls input {
+    flex: 1;
+    border: 0;
+    padding: 2rem;
+  }
+  
+  
+  .display {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .displayEndTime {
+    font-weight: bolder;
+    font-size: 4rem;
+    color: rgb(180, 27, 27);
+  }
+  
