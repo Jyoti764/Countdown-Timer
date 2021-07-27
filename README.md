@@ -1,8 +1,7 @@
 # **Countdown-Timer**
 
-### A basic Timer made using ***HTML***, ***CSS*** and ***Javascript***.
+### A basic Timer made using ***HTML***, ***CSS*** and ***Javascript***.Background images can be changed by just refreshing the page.
 
-
-![Screenshot 2021-07-28 023618](https://user-images.githubusercontent.com/73338208/127228508-1042124c-2e8d-4119-a747-c4bda6bf43d1.png)
-
+![1](https://user-images.githubusercontent.com/73338208/127232677-805a92ec-312c-4b5e-a231-2f829eb9f49b.png)
+![2](https://user-images.githubusercontent.com/73338208/127232691-f55f87a0-d35b-4a4a-b5d4-4f544be802d8.png)
 
