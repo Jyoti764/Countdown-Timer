@@ -1,4 +1,4 @@
-# **Countdown-Timer**
+# **Countdown-Timer** 🕐
 
 ### *A basic Timer made using* ***HTML***, ***CSS*** and ***Javascript***. *Background images can be changed by just refreshing the page*.
 
